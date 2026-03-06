@@ -119,7 +119,7 @@ const Hero = () => {
                     </motion.p>
 
                     <motion.a
-                        href="/resume.pdf"
+                        href="src\assets\BHARATSINGH_RESUME.pdf"
                         download
                         className="inline-flex items-center justify-center px-6 py-3 mt-4 rounded-full font-medium bg-white text-black shadow-lg self-center lg:self-start"
                         initial={{ opacity: 0, y: 20 }}
